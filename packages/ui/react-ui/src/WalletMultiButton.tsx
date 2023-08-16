@@ -7,7 +7,7 @@ const LABELS = {
     connecting: 'Connecting ...',
     'copy-address': 'Copy address',
     copied: 'Copied',
-    disconnect: 'Disconnect',
+    disconnect: 'Logout',
     'has-wallet': 'Connect',
     'no-wallet': 'Select Wallet',
 } as const;
