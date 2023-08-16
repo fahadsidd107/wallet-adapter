@@ -4,7 +4,7 @@ import type { ButtonProps } from './Button.js';
 
 const LABELS = {
     disconnecting: 'Disconnecting ...',
-    'has-wallet': 'Disconnect',
+    'has-wallet': 'Logout',
     'no-wallet': 'Disconnect Wallet',
 } as const;
 
